@@ -51,3 +51,10 @@ Faça login no GitHub, se necessário
 Faça login no GitHub, se necessário
 
 As alterações devem aparecer no seu repositório no GitHub
+
+branch nova
+
+user@DESKTOP-A48U04J MINGW64 ~/Desktop/teste-git (main)
+$ git checkout -b dev
+Switched to a new branch 'dev'
+
